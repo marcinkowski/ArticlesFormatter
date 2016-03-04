@@ -1,4 +1,4 @@
-# Altmetric Programming Exercise
+# Programming Exercise
 
 In the resources directory, you'll find three data files:
 
